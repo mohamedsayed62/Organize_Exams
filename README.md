@@ -7,7 +7,7 @@ A robust Laravel application for managing student exam workflows, doctor account
 
 <br>
 
-![Laravel 13](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel 13](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP 8.3](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel Excel](https://img.shields.io/badge/Maatwebsite_Excel-3.1-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FFD700?style=for-the-badge&logo=laravel&logoColor=black)
