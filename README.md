@@ -1,15 +1,13 @@
 
 <div align="center">
 
-![Organize Exams Banner](https://image.qwenlm.ai/public_source/9faa1682-c16d-43d6-8e92-9503bdefc83f/11baf2a8f-e6d2-45ab-98a0-eda6c0c642ef.png)
-
 # Organize *Exams*
 
 A robust Laravel application for managing student exam workflows, doctor accounts, and exam scheduling — powered by Excel imports, real-time WebSockets, and a clean REST API.
 
 <br>
 
-![Laravel 12](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel 13](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP 8.3](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel Excel](https://img.shields.io/badge/Maatwebsite_Excel-3.1-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FFD700?style=for-the-badge&logo=laravel&logoColor=black)
