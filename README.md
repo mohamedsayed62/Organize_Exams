@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 ![Organize Exams Banner](https://image.qwenlm.ai/public_source/9faa1682-c16d-43d6-8e92-9503bdefc83f/1cd831788-d8fd-9e1c-af3e-c0d1eca7a6ff.png)
@@ -236,4 +236,3 @@ This project is licensed under the **MIT License**.
 <div align="center">
   <sub>Built with ❤️ using <a href="https://laravel.com" target="_blank">Laravel</a></sub>
 </div>
-```
